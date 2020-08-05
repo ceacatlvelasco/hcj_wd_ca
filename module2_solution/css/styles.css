@@ -14,12 +14,13 @@ h2 {
 	font-size: 1.25em;
 
 	position: absolute;
-	top: -17px;
-	right: -1px;
+	top: 0;
+	right: 0;
 
 	width: 180px;
 	height: 30px;
 
+	margin: -1px;
 	border: 1px solid black;
 }
 
