@@ -1,0 +1,24 @@
+{
+  "name": "module3_solution",
+  "version": "1.0.0",
+  "description": "Module 3 solution",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceacatlvelasco/hcj_wd_ca.git"
+  },
+  "author": "Ce Acatl Velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceacatlvelasco/hcj_wd_ca/issues"
+  },
+  "homepage": "https://github.com/ceacatlvelasco/hcj_wd_ca#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}

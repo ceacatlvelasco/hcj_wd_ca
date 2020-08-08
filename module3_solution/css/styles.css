@@ -1,0 +1,21 @@
+#header {
+	margin: 2rem 0;
+	font-size: 3em;
+}
+
+#collapse-nav {
+	margin: .5rem -1rem -.5rem -1rem;
+}
+
+.card {
+	margin-bottom: 3rem;
+	border: none;
+}
+
+.card-header {
+	color: #ffffff;
+}
+
+.card-body {
+	background-color: #ffff99;
+}
